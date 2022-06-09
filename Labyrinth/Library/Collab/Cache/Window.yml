@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Audio.meta
+    - Assets/Audio/background_music.mp3
+    - Assets/Audio/background_music.mp3.meta
+    - Assets/Audio/check_point.mp3
+    - Assets/Audio/check_point.mp3.meta
+    - Assets/Audio/enter_wall.mp3
+    - Assets/Audio/enter_wall.mp3.meta
+    - Assets/Audio/finish_audio.mp3
+    - Assets/Audio/finish_audio.mp3.meta
+    - Assets/Image.meta
+    - Assets/Image/Golden-Key-PNG-Free-Download.png
+    - Assets/Image/Golden-Key-PNG-Free-Download.png.meta
+    - Assets/Image/keys.mat
+    - Assets/Image/keys.mat.meta
+    - Assets/Image/whitecircle.png
+    - Assets/Image/whitecircle.png.meta
+    - Assets/Image/xpCircle.jpg
+    - Assets/Image/xpCircle.jpg.meta
+    - Assets/Materials/Ball.physicMaterial
+    - Assets/Materials/Wall.mat
+    - Assets/Materials/Wall2.mat
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scripts/BallController.cs
+    - Assets/Scripts/Clocks.cs
+    - Assets/Scripts/Clocks.cs.meta
+    - Assets/Scripts/HideGates.cs
+    - Assets/Scripts/HideGates.cs.meta
+    - Assets/Scripts/Menu.cs
+    - Assets/Scripts/Menu.cs.meta
+    - Assets/Scripts/OpenGates.cs
+    - Assets/Scripts/OpenGates2.cs
+    - Assets/Scripts/OpenGates2.cs.meta
+    - Assets/Scripts/RotateGates.cs
+    - Assets/Scripts/RotateGates.cs.meta
+    - Assets/Scripts/Timing.cs
+    - Assets/Scripts/Timing.cs.meta
+    - Assets/Sprites.meta
+    - Assets/Sprites/white_circle.jpeg
+    - Assets/Sprites/white_circle.jpeg.meta
+    - Assets/Textures.meta
+    - Assets/Textures/BallTexture.jpg
+    - Assets/Textures/BallTexture.jpg.meta
+    - Assets/Textures/Image3.gif
+    - Assets/Textures/Image3.gif.meta
+    - Assets/Textures/SoccerTexture.png
+    - Assets/Textures/SoccerTexture.png.meta
+    - Assets/Textures/SoftballBump.jpg
+    - Assets/Textures/SoftballBump.jpg.meta
+    - Assets/Textures/TennisBallBump.jpg
+    - Assets/Textures/TennisBallBump.jpg.meta
+    - Assets/Textures/balldimpled.png
+    - Assets/Textures/balldimpled.png.meta
+    - Assets/Textures/flat1.jpg
+    - Assets/Textures/flat1.jpg.meta
+    - Assets/Textures/flat2.jpg
+    - Assets/Textures/flat2.jpg.meta
+    - Assets/Textures/wallscrin.png
+    - Assets/Textures/wallscrin.png.meta
+    - Assets/Textures/walltexture.jpg.sb-3fcfc3b2-SVEoCH
+    - Assets/Textures/walltexture.jpg.sb-3fcfc3b2-SVEoCH.meta
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

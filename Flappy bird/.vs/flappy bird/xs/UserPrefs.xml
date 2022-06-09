@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuUI.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoveTube.cs" Line="10" Column="53" />
+      <File FileName="Assets/Scripts/OutOfField.cs" Line="111" Column="7" />
+      <File FileName="Assets/Scripts/Bird.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuUI.cs" Line="52" Column="18" />
+      <File FileName="Assets/Scripts/Money.cs" Line="24" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="flappy bird" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="MenuUI.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

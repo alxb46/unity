@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Menu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BallController.cs" Line="37" Column="29" />
+      <File FileName="Assets/Scripts/Clocks.cs" Line="22" Column="19" />
+      <File FileName="Assets/Scripts/HideGates.cs" Line="21" Column="9" />
+      <File FileName="Assets/Scripts/Timing.cs" Line="62" Column="43" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="31" Column="42" />
+      <File FileName="Assets/Scripts/OpenGates.cs" Line="26" Column="10" />
+      <File FileName="Assets/Scripts/OpenGates2.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Labyrinth" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Menu.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

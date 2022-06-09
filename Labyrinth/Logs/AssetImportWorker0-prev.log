@@ -1,0 +1,1522 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/apple/Labyrinth
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60384
+Successfully changed project path to: /Users/apple/Labyrinth
+/Users/apple/Labyrinth
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0a2 (37c5ec4c3cb1)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/apple/Labyrinth/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-12-10 17:00:04.888 Unity[10723:551329] (null) preferred device: Apple M1 (high power)
+2021-12-10 17:00:04.888 Unity[10723:551329] Metal devices available: 1
+2021-12-10 17:00:04.888 Unity[10723:551329] 0: Apple M1 (high power)
+2021-12-10 17:00:04.888 Unity[10723:551329] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56723
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000917 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 21.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.889 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001257 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.524 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 270.0 MB.
+System memory in use after: 270.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1549.
+Total: 1.429125 ms (FindLiveObjects: 0.172041 ms CreateObjectMapping: 0.024292 ms MarkObjects: 1.174875 ms  DeleteObjects: 0.057250 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Audio/finish_audio.mp3
+  artifactKey: Guid(f61afeee1c68f4b3197c660523d7cac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+========================================================================
+Received Import Request.
+  Time since last request: 436.888065 seconds.
+  path: Assets/Scripts/BallController.cs
+  artifactKey: Guid(92d5e60acbd9c4b69819c3a39c0498aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+========================================================================
+Received Import Request.
+  Time since last request: 0.020077 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(5013ebf36e7604173b9af196b16a8f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000379 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.624 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000296 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.523 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 260.9 MB.
+System memory in use after: 260.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 2.027667 ms (FindLiveObjects: 0.187125 ms CreateObjectMapping: 0.022709 ms MarkObjects: 1.549334 ms  DeleteObjects: 0.267916 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 679.615862 seconds.
+  path: Assets/Scripts/BallController.cs
+  artifactKey: Guid(92d5e60acbd9c4b69819c3a39c0498aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000959 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.790 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000297 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.529 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 262.2 MB.
+System memory in use after: 262.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1566.
+Total: 3.287167 ms (FindLiveObjects: 0.218792 ms CreateObjectMapping: 0.022375 ms MarkObjects: 2.717084 ms  DeleteObjects: 0.327916 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001890 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.680 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000291 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.570 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 262.6 MB.
+System memory in use after: 262.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 1.255625 ms (FindLiveObjects: 0.202541 ms CreateObjectMapping: 0.023459 ms MarkObjects: 0.979416 ms  DeleteObjects: 0.048917 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000320 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.844 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000284 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.584 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 262.9 MB.
+System memory in use after: 263.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 2.147209 ms (FindLiveObjects: 0.216875 ms CreateObjectMapping: 0.023917 ms MarkObjects: 1.584542 ms  DeleteObjects: 0.320667 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 41942.096322 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(5013ebf36e7604173b9af196b16a8f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+========================================================================
+Received Import Request.
+  Time since last request: 3.571373 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(5013ebf36e7604173b9af196b16a8f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000324 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.682 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000379 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.624 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 263.4 MB.
+System memory in use after: 263.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1578.
+Total: 1.504542 ms (FindLiveObjects: 0.292750 ms CreateObjectMapping: 0.025541 ms MarkObjects: 1.139417 ms  DeleteObjects: 0.045500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000325 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.748 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000289 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.529 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 263.8 MB.
+System memory in use after: 263.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 1.140458 ms (FindLiveObjects: 0.193292 ms CreateObjectMapping: 0.022875 ms MarkObjects: 0.890375 ms  DeleteObjects: 0.033084 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 920.010083 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(5013ebf36e7604173b9af196b16a8f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+========================================================================
+Received Import Request.
+  Time since last request: 0.018203 seconds.
+  path: Assets/Scripts/BallController.cs
+  artifactKey: Guid(92d5e60acbd9c4b69819c3a39c0498aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000322 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.798 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000284 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.555 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.2 MB.
+System memory in use after: 264.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1586.
+Total: 1.236916 ms (FindLiveObjects: 0.218375 ms CreateObjectMapping: 0.023917 ms MarkObjects: 0.955166 ms  DeleteObjects: 0.038500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000373 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.941 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000293 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.546 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.5 MB.
+System memory in use after: 264.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1590.
+Total: 1.135208 ms (FindLiveObjects: 0.185542 ms CreateObjectMapping: 0.021583 ms MarkObjects: 0.892625 ms  DeleteObjects: 0.034833 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000317 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.791 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000307 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.643 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.9 MB.
+System memory in use after: 265.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1594.
+Total: 1.236542 ms (FindLiveObjects: 0.206000 ms CreateObjectMapping: 0.023042 ms MarkObjects: 0.966250 ms  DeleteObjects: 0.040333 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000333 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 21.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.722 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000327 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.606 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 265.3 MB.
+System memory in use after: 265.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1598.
+Total: 1.200334 ms (FindLiveObjects: 0.191083 ms CreateObjectMapping: 0.023417 ms MarkObjects: 0.950083 ms  DeleteObjects: 0.035000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000331 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.756 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000271 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.633 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 265.7 MB.
+System memory in use after: 265.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1602.
+Total: 1.190083 ms (FindLiveObjects: 0.187125 ms CreateObjectMapping: 0.023000 ms MarkObjects: 0.941375 ms  DeleteObjects: 0.037875 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000332 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.795 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000304 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.712 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 266.0 MB.
+System memory in use after: 266.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1606.
+Total: 1.192958 ms (FindLiveObjects: 0.196959 ms CreateObjectMapping: 0.023208 ms MarkObjects: 0.936583 ms  DeleteObjects: 0.035125 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001614 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.731 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000430 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.690 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 266.4 MB.
+System memory in use after: 266.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 1.337166 ms (FindLiveObjects: 0.210459 ms CreateObjectMapping: 0.026375 ms MarkObjects: 1.057167 ms  DeleteObjects: 0.042375 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000332 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.825 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000304 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.739 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 266.8 MB.
+System memory in use after: 266.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1614.
+Total: 1.211916 ms (FindLiveObjects: 0.209542 ms CreateObjectMapping: 0.023416 ms MarkObjects: 0.942625 ms  DeleteObjects: 0.035667 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000320 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 21.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.841 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000298 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.673 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 267.1 MB.
+System memory in use after: 267.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 1.202292 ms (FindLiveObjects: 0.192041 ms CreateObjectMapping: 0.023042 ms MarkObjects: 0.953875 ms  DeleteObjects: 0.032583 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000333 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 21.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.824 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000294 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 267.5 MB.
+System memory in use after: 267.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 1.227375 ms (FindLiveObjects: 0.192291 ms CreateObjectMapping: 0.023167 ms MarkObjects: 0.975417 ms  DeleteObjects: 0.035875 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001058 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.010 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000295 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.787 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 267.7 MB.
+System memory in use after: 267.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1626.
+Total: 3.189375 ms (FindLiveObjects: 0.381125 ms CreateObjectMapping: 0.026875 ms MarkObjects: 2.571000 ms  DeleteObjects: 0.209250 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000321 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.916 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000297 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.709 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 268.3 MB.
+System memory in use after: 268.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1630.
+Total: 1.190375 ms (FindLiveObjects: 0.198292 ms CreateObjectMapping: 0.023000 ms MarkObjects: 0.932541 ms  DeleteObjects: 0.035750 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001552 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 21.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.890 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000295 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.794 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 268.6 MB.
+System memory in use after: 268.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 1.307792 ms (FindLiveObjects: 0.193791 ms CreateObjectMapping: 0.026167 ms MarkObjects: 1.048000 ms  DeleteObjects: 0.039083 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000320 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.915 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000297 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.770 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 269.0 MB.
+System memory in use after: 269.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1638.
+Total: 1.213875 ms (FindLiveObjects: 0.198709 ms CreateObjectMapping: 0.023709 ms MarkObjects: 0.952833 ms  DeleteObjects: 0.038042 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002535 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.817 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000267 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.762 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 269.2 MB.
+System memory in use after: 269.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1642.
+Total: 1.245792 ms (FindLiveObjects: 0.215000 ms CreateObjectMapping: 0.023458 ms MarkObjects: 0.963709 ms  DeleteObjects: 0.043000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002197 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 23.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.974 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000315 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/apple/Labyrinth/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Unable to find Tools for Unity bridge dll for Visual Studio for Mac /Applications/Visual Studio (Preview).app
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.787 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 269.8 MB.
+System memory in use after: 269.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 1.240042 ms (FindLiveObjects: 0.194750 ms CreateObjectMapping: 0.023167 ms MarkObjects: 0.984916 ms  DeleteObjects: 0.036500 ms)
+
